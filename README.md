@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, My name is Kamil, I'm frontend web developer at [Continually](https://continual.ly)
 
 <!--
 **mugukamil/mugukamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
